@@ -69,7 +69,7 @@ where `μ` is the constant value of the distribution.
 ## Usage
 
 ```javascript
-import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-degenerate-mode@esm/index.mjs';
+import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-degenerate-mode@v0.2.0-esm/index.mjs';
 ```
 
 #### mode( mu )
@@ -111,7 +111,7 @@ v = mode( -0.5 );
 <script type="module">
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
-import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-degenerate-mode@esm/index.mjs';
+import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-degenerate-mode@v0.2.0-esm/index.mjs';
 
 var mu;
 var v;

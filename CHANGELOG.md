@@ -4,7 +4,29 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-30)
+## Unreleased (2025-01-10)
+
+<section class="features">
+
+### Features
+
+-   [`77c3c12`](https://github.com/stdlib-js/stdlib/commit/77c3c12285e6c44e28a31345e2f2737b087b1f0a) - add C implementation for `stats/base/dists/degenerate/mode` [(#4580)](https://github.com/stdlib-js/stdlib/pull/4580)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3543](https://github.com/stdlib-js/stdlib/issues/3543)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +34,7 @@
 
 <details>
 
+-   [`77c3c12`](https://github.com/stdlib-js/stdlib/commit/77c3c12285e6c44e28a31345e2f2737b087b1f0a) - **feat:** add C implementation for `stats/base/dists/degenerate/mode` [(#4580)](https://github.com/stdlib-js/stdlib/pull/4580) _(by Karan Anand, Philipp Burckhardt)_
 -   [`318f280`](https://github.com/stdlib-js/stdlib/commit/318f28057bf00d910a656c4f315b8de17f89d3b5) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 
 </details>
@@ -24,8 +47,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Karan Anand
 -   Philipp Burckhardt
 
 </section>
